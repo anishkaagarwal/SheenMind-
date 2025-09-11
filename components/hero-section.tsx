@@ -9,7 +9,7 @@ export function HeroSection() {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-6xl font-bold text-balance mb-6">
-            <span className="text-primary">UmeedConnect</span> - Your Mental Health{" "}
+            <span className="text-primary">SheenMind</span> - Your Mental Health{" "}
             <span className="text-primary">Companion</span>
           </h1>
           <p className="text-xl text-muted-foreground text-balance max-w-3xl mx-auto mb-4">

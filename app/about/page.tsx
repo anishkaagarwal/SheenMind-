@@ -47,7 +47,7 @@ export default function AboutPage() {
           {/* Hero Section */}
           <div className="text-center mb-16">
             <h1 className="text-4xl font-bold text-balance mb-4">
-              About <span className="text-primary">MindCare J&K</span>
+              About <span className="text-primary">SheenMind J&K</span>
             </h1>
             <p className="text-xl text-muted-foreground text-balance max-w-3xl mx-auto">
               A pioneering digital mental health initiative by the Government of Jammu and Kashmir, designed to support
@@ -91,7 +91,7 @@ export default function AboutPage() {
 
           {/* Key Features */}
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center mb-8">Why MindCare J&K?</h2>
+            <h2 className="text-3xl font-bold text-center mb-8">Why SheenMind J&K?</h2>
             <div className="grid md:grid-cols-3 gap-8">
               <Card className="text-center">
                 <CardContent className="pt-6">
@@ -171,7 +171,7 @@ export default function AboutPage() {
               <div className="text-center space-y-4">
                 <h3 className="text-2xl font-semibold">A Government of J&K Initiative</h3>
                 <p className="text-muted-foreground max-w-2xl mx-auto">
-                  MindCare J&K is developed under the Digital Psychological Intervention System project, supported by
+                  SheenMind J&K is developed under the Digital Psychological Intervention System project, supported by
                   the Department of Student Welfare, Government of Jammu and Kashmir, in collaboration with leading
                   educational institutions and mental health professionals.
                 </p>

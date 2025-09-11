@@ -11,7 +11,7 @@ export function Footer() {
           <div className="col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-6 w-6 text-primary" />
-              <span className="text-lg font-bold">MindCare J&K</span>
+              <span className="text-lg font-bold">SheenMind J&K</span>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
               Supporting the mental health and wellbeing of college students across Jammu and Kashmir.
@@ -88,7 +88,8 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground">support@mindcarejk.org</span>
+                {/* Updated email from support@mindcarejk.org to support@sheenmind.org */}
+                <span className="text-muted-foreground">support@sheenmind.org</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-primary" />
@@ -103,7 +104,8 @@ export function Footer() {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2024 MindCare J&K. All rights reserved. | A Government of J&K Initiative</p>
+          {/* Updated copyright from MindCare J&K to SheenMind J&K */}
+          <p>&copy; 2024 SheenMind J&K. All rights reserved. | A Government of J&K Initiative</p>
         </div>
       </div>
     </footer>
